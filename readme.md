@@ -1,5 +1,5 @@
 ETL-Project
-Please read our report for more details. 
+Please read our report for more details.[link](https://github.com/sushainegoyal/ETL-Project/blob/master/ETL_Report_Team2.docx)
 
 #Proposal: 
 
